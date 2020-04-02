@@ -63,3 +63,6 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 
 !ENTRY org.eclipse.egit.core 1 0 2020-04-02 12:42:27.154
 !MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-04-02 13:24:54.983
+!MESSAGE No repository found at http://download.eclipse.org/oomph/drops/milestone/S20191119-111759-1.15.0-M3.

@@ -1,0 +1,16 @@
+/*Chapter1Á·Ï°³ÌÐò*/
+
+
+public class Chapter1 {
+	public static void chapter1_1(){
+		System.out.println("Welcome to Java");
+		System.out.println("Welcome to Computer Science");
+		System.out.println("Programming is fun");
+	}
+	
+	public static void main(String []args) {
+    	chapter1_1();
+    }
+    
+}
+

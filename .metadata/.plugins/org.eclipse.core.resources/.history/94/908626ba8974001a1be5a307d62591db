@@ -1,0 +1,14 @@
+/*Chapter1Á·Ï°³ÌÐò*/
+
+
+public class Chapter1 {
+	public static void chapter1_1(){
+		System.out.println("Hello world chapter1");
+	}
+	
+	public static void main(String []args) {
+    	System.out.println("Hello world");
+    	chapter1_1();
+    }
+    
+}

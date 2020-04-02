@@ -1,0 +1,39 @@
+/*Chapter1Á·Ï°³ÌÐò*/
+
+
+public class Chapter1 {
+	public static void chapter1_1(){
+		System.out.println("Welcome to Java");
+		System.out.println("Welcome to Computer Science");
+		System.out.println("Programming is fun");
+	}
+	
+	public static void main(String []args) {
+    	chapter1_1();
+    	chapter1_2();
+    	chapter1_3();
+    	chapter1_4();
+    }
+    
+	public static void chapter1_2() {
+		for(int i=0;i<5;i++) {
+			System.out.println("Welcome to Java");
+		}
+	}
+	
+	public static void chapter1_3() {
+		System.out.println("    J     A     V     V     A");
+		System.out.println("    J    A A     V   V     A A");
+		System.out.println("J   J   A   A     V V     A   A");
+		System.out.println(" J J   A     A     V     A     A");
+		
+	}
+	
+	public static void chapter1_4() {
+		System.out.println("a   a^2   a^3");
+		for(int i=1;i<5;i++) {
+			System.out.println(i+"   "+i*i+"   "+i*i*i);
+		}
+	}
+}
+

@@ -12,8 +12,8 @@ public class Chapter2 {
 		Scanner input = new Scanner(System.in);
 //		chapter2_1(input);
 //		chapter2_2(input);
-//		chapter2_3(input);
-		chapter2_4(input);
+		chapter2_3(input);
+		
 	}
 	
 	public static void chapter2_1(Scanner input) {
@@ -37,7 +37,7 @@ public class Chapter2 {
 		System.out.println(feet+" feet is "+0.305*feet+" meters");
 	}
 	
-	public static void chapter2_4(Scanner input) {
+	public static void chapter2_4() {
 		
 	}
 	

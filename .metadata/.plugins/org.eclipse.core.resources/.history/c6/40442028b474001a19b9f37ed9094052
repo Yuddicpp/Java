@@ -13,7 +13,7 @@ public class Chapter2 {
 //		chapter2_1(input);
 //		chapter2_2(input);
 //		chapter2_3(input);
-		chapter2_4(input);
+		
 	}
 	
 	public static void chapter2_1(Scanner input) {

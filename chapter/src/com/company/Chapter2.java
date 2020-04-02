@@ -53,7 +53,7 @@ public class Chapter2 {
     }
 
     public static void chapter2_6(Scanner input) {
-        System.out.print("ENter a number between 0 and 1000: ");
+        System.out.print("Enter a number between 0 and 1000: ");
         int num = input.nextInt();
         System.out.println("The sum of the digits is "+(num%10+num%100/10+num/100));
 

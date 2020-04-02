@@ -12,7 +12,6 @@ public class Chapter2 {
 		
 		Scanner input = new Scanner(System.in);
 		double radius = input.nextDouble();
-		System.out.print(radius);
 	}
 
 }

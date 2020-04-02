@@ -11,7 +11,7 @@ public class Chapter2 {
 		double area;
 		
 		
-		radius = 30;
+		radius = 20;
 		
 		area = radius * radius * Math.PI;
 		

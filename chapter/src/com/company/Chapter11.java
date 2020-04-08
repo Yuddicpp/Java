@@ -75,7 +75,7 @@ class GeometricObject {
 }
 
 class Triangle extends GeometricObject {
-    private double side1,side2,side3;
+    protected double side1,side2,side3;
 
     public Triangle() {
         side1 = 1.0;
